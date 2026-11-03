@@ -14,3 +14,13 @@ Advancing in Power BI for Data Visualization MIS 561, October 12, 2026, [and a l
 Advancing in Excel/Tableau - Pt. 3, How can Bear Down Bank prioritize non-contactless cards for early replacement while minimizing unnecessary costs?, [Card Portfolio Review – Contactless Readiness](https://public.tableau.com/views/CardPortfolioReviewContactlessReadiness_17925589362970/ExploratoryDash?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to complete this analysis again, I would explore additional factors, such as customer spending patterns, to better identify which cardholders would benefit most from early replacement.
 
 Advancing in Excel/Tableau - Pt. 4, How can Bear Down Bank identify which customer generation to prioritize for the Wildcat Rewards Card pre-approved offer pilot?, [Card Growth Analysis – Wildcat Rewards Offer](https://public.tableau.com/views/CardGrowthAnalysisWildcatRewardsOffer_17930818808190/ExploratoryDashboard?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), If I were to complete this analysis again, I would explore other attributes, such as customer spending patterns, to better identify which eligible customers would be most likely to use the new credit card.
+
+** November 2, 2026 , Data Storytelling with Adobe Express **
+
+Work Sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: Prioritize Gen Z Customers for the Wildcats Rewards Card pre-approved offer pilot.
+
+[Work sample](https://github.com/brandonhyang/mis561-portfolio/blob/main/adobe/yang-data-storytelling.pdf) , [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:950b4ded-3094-4c48-81d9-1bedaaec6f6a?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Design choice: I selected a scatter plot to compare eligibility rates and eligible customer counts across generations, to identify Gen Z as the strongest candidate for the pilot based on both measures. I also included a stacked bar chart comparing the FICO score distributions of eligible Gen Z and Millennial customers to provide additional context for the two largest eligible groups. I removed the geographic penetration map from my original dashboard because location was less relevant to the decision, allowing more space to emphasize customer eligibility and FICO scores.
+
+Training completed: November 2, 2026, AI: ChatGPT (OpenAI, GPT-6), to assist with refining and improving clarity of writing.
