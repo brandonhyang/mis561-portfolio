@@ -24,3 +24,15 @@ Work Sample for Jordan Ellis, VP of Card Growth at Bear Down Bank: Prioritize Ge
 Design choice: I selected a scatter plot to compare eligibility rates and eligible customer counts across generations, to identify Gen Z as the strongest candidate for the pilot based on both measures. I also included a stacked bar chart comparing the FICO score distributions of eligible Gen Z and Millennial customers to provide additional context for the two largest eligible groups. I removed the geographic penetration map from my original dashboard because location was less relevant to the decision, allowing more space to emphasize customer eligibility and FICO scores.
 
 Training completed: November 2, 2026, AI: ChatGPT (OpenAI, GPT-6), to assist with refining and improving clarity of writing.
+
+** November 17, 2026, Product Pitch with Generative AI in Adobe Express **
+
+Pitch to Jordan Ellis, VP of Card Growth at Bear Down Bank: approve a six-week first-phase engagement to prepare a targeted Wildcat Rewards Card pilot for eligible Gen Z customers.
+
+[Pitch deck (PDF)](https://github.com/brandonhyang/mis561-portfolio/blob/main/adobe/yang-product-pitch.pdf) , [Adobe Express](https://new.express.adobe.com/id/urn:aaid:sc:VA6C2:eb9b550f-ac3f-5a46-a39e-51eb33713b1e?accept=true&invite=true&promoid=Z2G1FQKR&mv=other)
+
+Toughest objection: Why is additional planning necessary if Gen Z has already been identified as the strongest eligible segment? Slide 5 addresses this concern by explaining how additional planning will refine the target audience, develop an outreach strategy, and establish measurable success criteria before launching the pilot.
+
+AI use: ChatGPT (OpenAI,GPT-6), to assist with refining and improving clarity of writing. Brand logo was generated with ChatGPT Images, Nov 16, 2026.
+
+Training completed: November 17, 2026.
